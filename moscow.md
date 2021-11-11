@@ -17,4 +17,4 @@
 - a Geiger counter
 
 ### Will not have
-- else
+- everything else
