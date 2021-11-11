@@ -16,6 +16,7 @@
 
 ### Could have
 - a Geiger counter
+- Mobile data connection
 
 ### Will not have
 - else
