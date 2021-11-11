@@ -16,6 +16,8 @@
 
 ### Could have
 - a Geiger counter
-
+- Mobile data connection
+- GPS tracking system
+- 
 ### Will not have
 - else
