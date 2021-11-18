@@ -1,6 +1,7 @@
 You can do it here:
 
 - [x] 4 motors
+- [X] PWM 2CH motorcontroller (L298N)
 - [x] 4 wheels
 - [x] resistors
 - [x] LEDs
