@@ -13,6 +13,7 @@
 ### Should have
 - An LCD display
 - a buzzer
+- a carbon dioxide sensor to detect fire
 
 ### Could have
 - a Geiger counter
