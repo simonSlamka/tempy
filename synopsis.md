@@ -12,8 +12,7 @@ The Discord front-end will also serve as an additional control panel for the bot
 It can be configured for almost all situartions. It can be tracked or wheeled and fittet with a huge range of types of sensors. Temperature, Humidity, Atmospheric pressure, sound pressure, Radioactive, Thermal, chemical, and also audio input/output.
 
 ## Possible applications in the real world
-Tempy could be used in the military as a recon bot for scouting the enemy's camp. It could also be used by emergency services to enter a dangerous environment and figure out
-whether it's safe for humans to enter. It could also assist the bomb squad when detecting bombs to prevent any blown human insides. 
+Tempy could be used in the military as a recon bot for scouting the enemy's camp. It could also be used by emergency services to enter a dangerous environment and determine whether it's safe for humans to enter. It could also assist the bomb squad when detecting bombs to prevent any blown human insides. 
 
 ### What are the questions that need to be answered?
 - *Could this actually work in a production environment?*
