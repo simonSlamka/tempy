@@ -18,4 +18,4 @@ Tempy could be used in the military as a recon bot for scouting the enemy's camp
 - *Could this actually work in a production environment?*
 - *What are the possible issues with this approach?*
 - *Technology failure or human error - what's more preferable?*
-- *Do you think that with the listed data inputs, we could actually effectively gauge safety of a given environment, enough to send actual people in? What if something fucks up? Do we just blame the tech, or the introverted, socially awkward programmer who wrote the bot?*
+- *Do you think that with the listed data inputs, we could actually effectively gauge safety of a given environment, enough to send actual people in? What if something fucks up? Do we blame the tech, the operation manager,  or the introverted, socially awkward programmer who wrote the bot?*
