@@ -6,7 +6,7 @@ import requests
 import sys
 from datetime import datetime
 
-sys.stderr = object
+#sys.stderr = object # this shouldn't be required
 
 GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BOARD)
@@ -21,7 +21,7 @@ def get_time_now():     # get system time
 
 def getValues():
 	if values.is_valid():
-		print(get_time_now())
+		print(get_time_now(), ":")
 		print("Current temp:", values.temperature)
 		print("Current humidity:", values.humidity)
 		requests.post('http://auth.ongakken.com:2005/api/postMsgToUCLchannelDiscord', headers={"Content-Type":"application/json"}, json={'msg': f"Temperature: {values.temperature}C \n Humidity: {values.humidity}%RH"})
