@@ -1,6 +1,6 @@
 #!/bin/python3
 import RPi.GPIO as GPIO
-import bme280
+import bme280 # install using: python3 -m pip install rpi.bme280
 import smbus2
 from time import sleep
 import requests
