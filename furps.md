@@ -12,7 +12,7 @@ _F_
 _U_
 ### Usability
 - The user will be able to access the bot and control it remotely over multiple protocols
-- The user will be able to command the bot to move to a desired location,
+- The user will be able to command the bot to move to a desired location,\
 may it be a dangerous environment or enemy territory
 - The user will be able to retrieve collected data from the bot for further analysis
 - Interacting with the bot is made simple and straightforward (_KISS_)
@@ -20,14 +20,14 @@ may it be a dangerous environment or enemy territory
 _R_
 ### Reliability
 - A connection recovery system in case of the bot losing connection
-- The buzzer will start buzzing when Internet connection is lost 
+- The buzzer will start buzzing when Internet connection is lost\
 (dropped **ICMP**s to [ongakken.dk](ongakken.dk))
 - The bot must be able to withstand stress and high temperatures/humidities
 
 _P_
 ### Performance
 - The bot must respond to user commands within 50ms
-- The bot should be able to go for 2 hours on one charge 
+- The bot should be able to go for 2 hours on one charge\
 (supposed that we have a 10 000mAh powerbank connected)
 - The user should be able to add stuff to the bot to expand it
 - The bot should use 50% of CPU time at most
