@@ -12,7 +12,8 @@ _F_
 _U_
 ### Usability
 - The user will be able to access the bot and control it remotely over multiple protocols
-- The user will be able to command the bot to move to a desired location, may it be a dangerous environment or enemy territory
+- The user will be able to command the bot to move to a desired location,
+may it be a dangerous environment or enemy territory
 - The user will be able to retrieve collected data from the bot for further analysis
 - Interacting with the bot is made simple and straightforward (_KISS_)
 
