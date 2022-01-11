@@ -20,13 +20,15 @@ may it be a dangerous environment or enemy territory
 _R_
 ### Reliability
 - A connection recovery system in case of the bot losing connection
-- The buzzer will start buzzing when Internet connection is lost (dropped **ICMP**s to [ongakken.dk](ongakken.dk))
+- The buzzer will start buzzing when Internet connection is lost 
+(dropped **ICMP**s to [ongakken.dk](ongakken.dk))
 - The bot must be able to withstand stress and high temperatures/humidities
 
 _P_
 ### Performance
 - The bot must respond to user commands within 50ms
-- The bot should be able to go for 2 hours on one charge (supposed that we have a 10 000mAh powerbank connected)
+- The bot should be able to go for 2 hours on one charge 
+(supposed that we have a 10 000mAh powerbank connected)
 - The user should be able to add stuff to the bot to expand it
 - The bot should use 50% of CPU time at most
 - The bot should use a maximum of 50% of available memory
